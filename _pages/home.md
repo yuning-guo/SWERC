@@ -1,7 +1,7 @@
 ---
 title: "Wave Engineering Lab - Home"
 layout: homelay
-excerpt: "Wave Engineering Lab at 西安交通大学"
+excerpt: "Wave Engineering Lab - Home"
 sitemap: false
 permalink: /
 ---
