@@ -1,7 +1,7 @@
 ---
 title: "Wave Engineering Lab - Publications"
 layout: gridlay
-excerpt: "Wave Engineering Lab -- Publications."
+excerpt: "Wave Engineering Lab - Publications."
 sitemap: false
 permalink: /publications/
 ---
