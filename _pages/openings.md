@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "Wave Engineering Lab - Openings"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Wave Engineering Lab - Openings"
 sitemap: false
 permalink: /vacancies
 ---
