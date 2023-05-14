@@ -1,7 +1,7 @@
 ---
 title: "Wave Engineering Lab - Pictures"
 layout: piclay
-excerpt: "Wave Engineering Lab -- Pictures"
+excerpt: "Wave Engineering Lab - Pictures"
 permalink: /pictures/
 ---
 
