@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Wave Engineering Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Wave Engineering Lab at 西安交通大学"
 sitemap: false
 permalink: /
 ---
