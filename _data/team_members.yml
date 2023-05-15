@@ -1,39 +1,39 @@
-- name: 陈小源
+- name: 陈小源 教授
   photo: ProfChen-headshot.jpg
-  info: 教授
-  email: xxx@xjtu.edu.cn
-  number_educ: 5
-  education1: 2020.07-至今 西安交通大学物理学院 教授
-  education2: 200x-xxxx    中科院上海高研院薄膜光电工程技术中心
-  education3: Postdoc Cornell
-  education4: 英国Strathclyde应用物理系博士
+  info: 仲英楼B823
+  email: xchen21@xjtu.edu.cn
+  number_educ: 4
+  education1: 1982年于武汉大学获得半导体物理学士学位，1985年获得中科院武汉物理所理论物理硕士学位，1991年在英国斯特拉斯克莱德大学获得固体物理学博士学位.
+  education2: 先后在中科院武汉物理所, 英国卡迪夫大学应用物理系、美国依阿华大学高技术中心、美国阿肯色大学物理系、美国康宁公司波士顿激光分部等单位从事研究工作。2004-2009年就职麻省理工学院机械工程系。2010年1月回国，2010年底入选国家QR计划。
+  education3: 曾任薄膜光电工程技术中心负责人，上海科技大学和中国科学院大学特聘教授，享受国务院特殊津贴，国家外专局特聘专家，CIGS产业联盟副理事长和学术委员，国际光伏Q&A质检组委会顾问委员。
+  education4: 涉足领域宽泛，在前沿基础研究，半导体材料与器件、光学技术与探测、纳米科技、新能源等领域都有一些重要贡献。在各类学术刊物包括Science上发表过一些有影响的论文，他引近5000次。作为项目负责人，承担项目经费4千8百多万，主持申报人才总经费1千多万。
 #   education5: 
 
-- name: 沈礼华
+- name: 沈礼华 特聘教授
   photo: Lihua-headshot.jpg
-  info: 青拔A，特聘教授
-  email: Lihua.Shen@xjtu.edu.cn
-  number_educ: 5
-  education1: 2022.07-至今 西安交通大学物理学院  教授
-  education2: 2018.01-2022.01 美国科罗拉多大学波尔德分校  博士后
-  education3: 2013.09-2017.09 荷兰埃因霍芬理工大学化学工程专业  博士
-#   education4: 
+  info: 仲英楼B727
+  email: lihua.shen@xjtu.edu.cn
+  number_educ: 4
+  education1: 2010年本科毕业于四川大学，2013年硕士毕业于厦门大学，2017年于荷兰埃因霍芬理工大学获得博士学位。
+  education2: 2018年1月起至2022年1月在美国科罗拉多大学波尔德分校从事博士后研究工作。2022年10月加入西安交通大学，入选“青年拔尖人才支持计划”A类。
+  education3: 长期从事光调控和光化学转换领域的研究，主要研究兴趣包括：微纳光子结构设计与规模化加工；光学仿真；面向光合作用改良的光质量管理新方法。
+  education4: 迄今发表SCI论文20余篇，包括Nature Food（封面论文），Advanced Energy Materials等期刊。
 #   education5:
   
-- name: 郭钰宁
+- name: 郭钰宁 特聘研究员
   photo: Yuning-headshot.jpg
-  info: 青拔B，特聘研究员
+  info: 仲英楼B823
   email: yuning.guo@xjtu.edu.cn
-  number_educ: 5
-  education1: 2023.04-至今 西安交通大学物理学院  副教授 
-  education2: 2018.03-2023.03 美国科罗拉多大学波尔德分校  博士后
-  education3: 2014.09-2018.03 德国康斯坦茨大学  博士
-#   education4:
+  number_educ: 4
+  education1: 2011年本科毕业于西北工业大学，2014年硕士毕业于西北工业大学，2018年于德国康斯坦茨大学获得博士学位。 
+  education2: 2018年3月起至2023年3月在美国科罗拉多大学波尔德分校从事博士后研究工作。2023年4月加入西安交通大学，入选“青年拔尖人才支持计划”B类。
+  education3: 长期从事声场调控，主要研究兴趣包括：人工结构中的声波及弹性波调控；散射介质中光声成像。
+  education4: 迄今发表SCI论文20余篇，包括National Science Review, Advanced Functional Materials, Advanced Science等期刊。
 #   education5:
   
 - name: 沈昊
   photo: Hao-headshot.jpg
-  info: 外聘教授
+  info: 外聘研究员
   email: hao.shen@hotmail.cn
   number_educ: 5
   education1: 2022.07-至今 西安交通大学物理学院  教授
