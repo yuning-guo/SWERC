@@ -1,43 +1,43 @@
 - name: 陈小源
   photo: ProfChen-headshot.jpg
   info: 教授
-  email: milan.allan@gmail.com
+  email: xxx@xjtu.edu.cn
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
+  education1: 2020.07-至今 西安交通大学物理学院 教授
+  education2: 200x-xxxx    中科院上海高研院薄膜光电工程技术中心
   education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education4: 英国Strathclyde应用物理系博士
+  education5: 
 
 - name: 沈礼华
   photo: Lihua-headshot.jpg
-  info: 特聘教授
+  info: 青拔A，特聘教授
   email: Lihua.Shen@xjtu.edu.cn
   number_educ: 3
-  education1: 2022.07-至今 西安交通大学物理学院  教授
-  education2: 2018.01-2022.01 美国科罗拉多大学波尔德分校  博士后
-  education3: 2013.09-2017.09 荷兰埃因霍芬理工大学化学工程专业  博士
+  education1:2022.07-至今 西安交通大学物理学院  教授
+  education2:2018.01-2022.01 美国科罗拉多大学波尔德分校  博士后
+  education3:2013.09-2017.09 荷兰埃因霍芬理工大学化学工程专业  博士
   education4: 
   education5:
   
 - name: 郭钰宁
   photo: Yuning-headshot.jpg
-  info: 特聘研究员
+  info: 青拔B，特聘研究员
   email: yuning.guo@xjtu.edu.cn
   number_educ: 3
-  education1: 2023.04-至今 西安交通大学物理学院  副教授 
-  education2: 2018.03-2023.03 美国科罗拉多大学波尔德分校  博士后
-  education3: 2014.09-2018.03 德国康斯坦茨大学  博士
+  education1:2023.04-至今 西安交通大学物理学院  副教授 
+  education2:2018.03-2023.03 美国科罗拉多大学波尔德分校  博士后
+  education3:2014.09-2018.03 德国康斯坦茨大学  博士
   education4:
   education5:
   
 - name: 沈昊
   photo: Hao-headshot.jpg
   info: 外聘教授
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
-  education3:
-  education4:
-  education5:
+  email: hao.shen@hotmail.cn
+  number_educ: 5
+  education1: 2022.07-至今 西安交通大学物理学院  教授
+  education2: 2022.07-至今 华东师范大学  教授
+  education3: 2018.01-2022.01 美国科罗拉多大学波尔德分校  博士后
+  education4: 2018.01-2022.01 美国加利佛尼亚大学圣地亚哥分校  博士后
+  education5: 2012.01-xxxx    中国科学院物理研究所 博士
