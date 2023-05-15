@@ -10,6 +10,9 @@ permalink: /research/
 
 本团队总体目前是xxx. 
 
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/summary.png){: style="width: 70%; float: center; margin: 0px"} -->
+
+
 以下是我们目前从事的一些研究课题：:
 
 **光谱精准调控.** 
