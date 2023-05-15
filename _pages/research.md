@@ -26,7 +26,8 @@ permalink: /research/
 **人工结构中的声场调控.**.
 声子作为晶格振动的元激发，可通过对其能带的调控从微观角度来操控宏观的声波及弹性波的传输。超材料通过设计人工结构单元来赋予材料新功能，提供了需求导向的、可进行逆向设计的材料获取方式，其科学价值及在潜在应用价值得到了各国政府、科技界、产业界的密切关注，是国防军工所需的战略重点前沿领域。在优化技术及增材制造快速发展的支持下，声子超材料得到了蓬勃发展，但目前大部分研究聚焦于新颖波传输性质的探究，相应的人工结构单元需要精巧的格点设计，应力集中在连接处，且对缺陷和干扰敏感，阻碍了其在现实应用中的推广。如何将具有可控波传播能力的声子超材料向具有实用性的功能材料转化是一个关键难题。下图为基于最小曲面的声学及弹性波超材料，详情请参见发表于Adv. Func. Mater.和Adv. Sci.的文章。
 
-![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic1-Yuning.png){: style="width: 500px; float: center; margin: 0px  10px"}
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic1-Yuning.png){: style="width: 500px; float: center; margin: 0px  10px"} -->
+![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic1-Yuning.png){: style="width: 70%; float: center; margin: 0px"}
 
 **散射介质中的光声成像.**  
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/lab_research/topic2-Yuning.png){: style="width: 300px; float: right; margin: 0px 10px"} -->
