@@ -1,7 +1,7 @@
 ---
-title: "Wave Engineering Lab - Home"
+title: "Solar & W. Env. Research Center - Home"
 layout: homelay
-excerpt: "Wave Engineering Lab - Home"
+excerpt: "Solar & W. Env. Research Center - Home"
 sitemap: false
 permalink: /
 ---
