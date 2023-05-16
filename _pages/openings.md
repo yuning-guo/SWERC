@@ -1,7 +1,7 @@
 ---
-title: "Wave Engineering Lab - Openings"
+title: "Solar & W. Env. Research Center - Openings"
 layout: textlay
-excerpt: "Wave Engineering Lab - Openings"
+excerpt: "Solar & W. Env. Research Center - Openings"
 sitemap: false
 permalink: /vacancies
 ---
