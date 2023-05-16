@@ -8,6 +8,11 @@ permalink: /
 
 我们团队是 [西安交通大学物理学院](http://phy.xjtu.edu.cn/)的一支xxx.我们的目标是调控光场与声场能量，主要研究方向包括xxx, 人工结构中的声场调控，及散射介质中的光声成像.
 
+为此，我们构建了xxx，发展了xxx。我们计划建立成一套xxx来解决xxx问题。 (see [Research](research)).
+
+我们位于西安交通大学，拥有xxx的强项. 我们团队开放交流，积极与多个团队合作[Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home).
+
+ **我们正在寻找充满激情的新博士生、博士后和硕士生加入团队！** [(更多信息)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -55,12 +60,6 @@ permalink: /
 
 
 
-为此，我们构建了xxx，发展了xxx。我们计划建立成一套xxx来解决xxx问题。 (see [Research](research)).
-
-我们位于西安交通大学，拥有xxx的强项. 我们团队开放交流，积极与多个团队合作[Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home).
-
-<!--  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!** -->
- **我们正在寻找充满激情的新博士生、博士后和硕士生加入团队！** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
