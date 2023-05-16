@@ -24,22 +24,22 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home1.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home1.png" alt="Slide 1" width="25%"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home3.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home3.png" alt="Slide 2" width="25%"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home4.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home4.png" alt="Slide 3" width="25%"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home5.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home5.png" alt="Slide 4" width="25%"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home6.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home6.png" alt="Slide 5" width="25%"/>
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home7.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/lab_home/home7.png" alt="Slide 6" width="25%"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
