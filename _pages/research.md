@@ -1,7 +1,7 @@
 ---
-title: "Wave Engineering Lab - Research"
+title: "Solar & W. Env. Research Center - Research"
 layout: textlay
-excerpt: "Wave Engineering Lab - Research"
+excerpt: "Solar & W. Env. Research Center - Research"
 sitemap: false
 permalink: /research/
 ---
