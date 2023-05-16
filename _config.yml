@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Wave Engineering Lab
+title: Solar & W. Env. Research Center
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Wave Engineering Lab.
-baseurl: "/wavelab"
+  Website of the Solar & W. Env. Research Center
+baseurl: "/SWERC"
 url: ""
 
 include:
