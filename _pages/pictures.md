@@ -5,7 +5,7 @@ excerpt: "Solar & W. Env. Research Center - Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
+## Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
