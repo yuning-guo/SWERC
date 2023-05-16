@@ -1,7 +1,7 @@
 ---
-title: "Wave Engineering Lab - Publications"
+title: "Solar & W. Env. Research Center - Publications"
 layout: gridlay
-excerpt: "Wave Engineering Lab - Publications."
+excerpt: "Solar & W. Env. Research Center - Publications."
 sitemap: false
 permalink: /publications/
 ---
