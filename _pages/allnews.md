@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Wave Engineering Lab"
+excerpt: "Solar & W. Env. Research Center - News"
 sitemap: false
 permalink: /allnews.html
 ---
