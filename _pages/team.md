@@ -26,7 +26,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>email: <{{ member.email }}> <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -91,7 +91,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <i>email: <{{ member.email }}> <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
