@@ -86,7 +86,7 @@ permalink: /team/
 
 {% if even_odd == 0 %}
 <div class="row">
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
+<img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
 {% endif %}
 
 <div class="col-sm-6 clearfix">
