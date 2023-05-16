@@ -26,7 +26,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <li>Email: <{{ member.email }}> <br> 地址: {{ member.info }}</li>
+  <h6>Email: <{{ member.email }}> <br> 地址: {{ member.info }}</h6>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -62,6 +62,9 @@ permalink: /team/
   </ul>
 </div>
 
+{% endfor %}
+
+
 <!-- {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -91,7 +94,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <li>Email: <{{ member.email }}> <br> {{ member.info }}</li>
+  <h6>Email: <{{ member.email }}> <br> {{ member.info }}</h6>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
