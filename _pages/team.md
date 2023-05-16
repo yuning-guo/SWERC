@@ -19,11 +19,11 @@ permalink: /team/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-{% if even_odd == 0 %}
+<!-- {% if even_odd == 0 %}
 <div class="row">
-{% endif %}
+{% endif %} -->
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>email: <{{ member.email }}> <br> {{ member.info }}</i>
