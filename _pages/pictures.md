@@ -1,7 +1,7 @@
 ---
-title: "Wave Engineering Lab - Pictures"
+title: "Solar & W. Env. Research Center - Pictures"
 layout: piclay
-excerpt: "Wave Engineering Lab - Pictures"
+excerpt: "Solar & W. Env. Research Center - Pictures"
 permalink: /pictures/
 ---
 
