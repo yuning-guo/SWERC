@@ -1,4 +1,4 @@
-- name: 陈小源  教授
+- name: 陈小源 教授
   photo: ProfChen-headshot.jpg
   info: 仲英楼 B823
   email: xchen21@xjtu.edu.cn
@@ -9,7 +9,7 @@
   education4: 涉足领域宽泛，在前沿基础研究，半导体材料与器件、光学技术与探测、纳米科技、新能源等领域都有一些重要贡献。在各类学术刊物包括Science上发表过一些有影响的论文，他引近5000次。作为项目负责人，承担项目经费4千8百多万，主持申报人才总经费1千多万。
 #   education5: 
 
-- name: 沈礼华  特聘教授
+- name: 沈礼华 特聘教授
   photo: Lihua-headshot.jpg
   info: 仲英楼 B727
   email: lihua.shen@xjtu.edu.cn
@@ -20,7 +20,7 @@
   education4: 迄今发表SCI论文20余篇，包括Nature Food（封面论文），Advanced Energy Materials等期刊。
 #   education5:
   
-- name: 郭钰宁  特聘研究员
+- name: 郭钰宁 特聘研究员
   photo: Yuning-headshot.jpg
   info: 仲英楼 B823
   email: yuning.guo@xjtu.edu.cn
@@ -31,7 +31,7 @@
   education4: 迄今发表SCI论文20余篇，包括National Science Review, Advanced Functional Materials, Advanced Science等期刊。
 #   education5:
   
-- name: 沈昊  外聘研究员
+- name: 沈昊 外聘研究员
   photo: Hao-headshot.jpg
   info: 仲英楼 B823
   email: hao.shen@hotmail.cn
