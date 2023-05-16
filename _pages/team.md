@@ -24,7 +24,7 @@ permalink: /team/
 {% endif %} -->
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/lab_team/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <li>Email: <{{ member.email }}> <br> 地址: {{ member.info }}</li>
   <ul style="overflow: hidden">
