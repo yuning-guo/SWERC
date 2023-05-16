@@ -1,7 +1,7 @@
 ---
-title: "Wave Engineering Lab - Team"
+title: "Solar & W. Env. Research Center - Team"
 layout: gridlay
-excerpt: "Wave Engineering Lab: Team members"
+excerpt: "Solar & W. Env. Research Center: Team members"
 sitemap: false
 permalink: /team/
 ---
