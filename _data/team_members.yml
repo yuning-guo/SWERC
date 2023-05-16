@@ -1,6 +1,6 @@
 - name: 陈小源 教授
   photo: ProfChen-headshot.jpg
-  info: 仲英楼B823
+  info: 仲英楼 B823
   email: xchen21@xjtu.edu.cn
   number_educ: 4
   education1: 1982年于武汉大学获得半导体物理学士学位，1985年获得中科院武汉物理所理论物理硕士学位，1991年在英国斯特拉斯克莱德大学获得固体物理学博士学位.
@@ -11,7 +11,7 @@
 
 - name: 沈礼华 特聘教授
   photo: Lihua-headshot.jpg
-  info: 仲英楼B727
+  info: 仲英楼 B727
   email: lihua.shen@xjtu.edu.cn
   number_educ: 4
   education1: 2010年本科毕业于四川大学，2013年硕士毕业于厦门大学，2017年于荷兰埃因霍芬理工大学获得博士学位。
@@ -22,7 +22,7 @@
   
 - name: 郭钰宁 特聘研究员
   photo: Yuning-headshot.jpg
-  info: 仲英楼B823
+  info: 仲英楼 B823
   email: yuning.guo@xjtu.edu.cn
   number_educ: 4
   education1: 2011年本科毕业于西北工业大学，2014年硕士毕业于西北工业大学，2018年于德国康斯坦茨大学获得博士学位。 
@@ -31,9 +31,9 @@
   education4: 迄今发表SCI论文20余篇，包括National Science Review, Advanced Functional Materials, Advanced Science等期刊。
 #   education5:
   
-- name: 沈昊
+- name: 沈昊 外聘研究员
   photo: Hao-headshot.jpg
-  info: 外聘研究员
+  info: 仲英楼 B823
   email: hao.shen@hotmail.cn
   number_educ: 5
   education1: 2022.07-至今 西安交通大学物理学院  教授
