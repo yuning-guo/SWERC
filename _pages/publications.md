@@ -1,7 +1,7 @@
 ---
 title: "Solar & W. Env. Research Center - Publications"
 layout: gridlay
-excerpt: "Solar & W. Env. Research Center - Publications."
+excerpt: "Solar & W. Env. Research Center - Publications"
 sitemap: false
 permalink: /publications/
 ---
