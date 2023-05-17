@@ -11,6 +11,9 @@ permalink: /vacancies
 **团队欢迎对光学/声学/凝聚态物理/材料学感兴趣的学生（本科生、硕士生和博士生）加入，进行下一阶段的学习和研究。**
 
 <!-- We are  looking for new group members with passion, talent, and grit! -->
+我们xxx，欢迎有志于这些领域的学生加入我们。
+
+
 您将获得：
 活跃自由的研究氛围
 前沿技术的相关培训
@@ -18,7 +21,7 @@ permalink: /vacancies
 与国外知名大学合作及进修的机会
 
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+<!-- You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
 
 <!-- ### Past open positions
 
@@ -30,18 +33,20 @@ You find the past job openings here:
 [Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
 ### 博士/硕士研究生
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+团队鼓励与波场调控和量子传感相关的自主新课堂的提出，欢迎感兴趣的同学咨询交流。
+<!-- If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+
+We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.** -->
 
 
 ### 本科学生
-团队欢迎对科学研究感兴趣的本科生进入课题组，进行xxx 
+团队欢迎对科学研究感兴趣的本科生进入课题组，踏入科研的大门！
 
 ### 访问学者/学生
 团队欢迎来自国内外团队的合作，期待各位老师学生们的交流访问！
 
-
+<!-- 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+</figure> -->
