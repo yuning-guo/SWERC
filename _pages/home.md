@@ -6,13 +6,14 @@ sitemap: false
 permalink: /
 ---
 
-我们团队是 [西安交通大学物理学院](http://phy.xjtu.edu.cn/)的一支xxx.我们的目标是调控光场与声场能量，主要研究方向包括xxx, 人工结构中的声场调控，及散射介质中的光声成像.
 
-为此，我们构建了xxx，发展了xxx。我们计划建立成一套xxx来解决xxx问题。 (see [Research](research)).
+中国西部光资源和地球环境研究中心将高水平打造基于先进微纳光电科学技术的“产学研”互相结合的交叉创新示范基地和高端人才培养基地。
 
-我们位于西安交通大学，拥有xxx的强项. 我们团队开放交流，积极与多个团队合作[Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home).
+我们团队研究方向涉及多个学科领域，旨在将不同学科领域的知识和技能相互融合，以解决具有复杂性和交叉性的问题。(更多信息 [Research](research)).
 
- **我们正在寻找充满激情的新博士生、博士后和硕士生加入团队！** [(更多信息)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+我们位于西安交通大学，拥有超快激光平台、化学生物制备平台、微振动测试平台等多个实验室. 我们团队开放交流，积极与国内外团队合作.
+
+ **我们正在寻找充满激情的博士生、硕士生、本科生及访问学者加入团队！** [(更多信息)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
