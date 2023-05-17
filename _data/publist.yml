@@ -4,7 +4,7 @@
   authors: Lihua Shen, Xiaobo Yin
   link:
     url: https://nanoconvergencejournal.springeropen.com/articles/10.1186/s40580-022-00327-5
-    display: Nano Convergence (2022)
+    display: Nano Convergence 9(36), 1-16 (2022)
   highlight: 1
 
 - title: "Asymmetrical interface design for unidirectional light extraction from spectrum conversion films"
@@ -13,27 +13,44 @@
   authors: Lihua Shen, Runnan Lou, Xiaobo Yin
   link:
     url: https://opg.optica.org/viewmedia.cfm?uri=oe-30-3-4642&seq=0&html=true
-    display: Optics Express (2022)
+    display: Optics Express 30(3), 4642-4654 (2022)
   highlight: 1
 
-- title: "Topological Surface States in a Gyroid Acoustic Crystal"
-  image: 3gyriod_yuning.png
+- title: "Increasing greenhouse production by spectral-shifting and unidirectional light-extracting photonics"
+  image: 3naturefood_lihua.png
   description: 
-  authors: Yuning Guo, Matheus IN Rosa, Massimo Ruzzene
+  authors: Lihua Shen, Runnan Lou, Yujin Park, Yuning Guo, Eric J. Stallknecht, Yinzi Xiao, David Rieder, Ronggui Yang, Erik S. Runkle, Xiaobo Yin
   link:
-    url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202205723
-    display: Advanced Science, 10(6), 2205723
+    url: https://www.nature.com/articles/s43016-021-00307-8
+    display: Nature Food 2, 434–441 (2021)
   highlight: 1
   
  - title: "Topological Surface States in a Gyroid Acoustic Crystal"
-  image: 3gyriod_yuning.png
+  image: 4gyriod_yuning.png
   description: 
-  authors: Yuning Guo, Matheus IN Rosa, Massimo Ruzzene
+  authors: Yuning Guo, Matheus I.N. Rosa, Massimo Ruzzene
   link:
     url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202205723
     display: Advanced Science, 10(6), 2205723
   highlight: 1 
   
+   - title: "Minimal Surface‐Based Materials for Topological Elastic Wave Guiding"
+  image: 5minimalsurface_yuning.png
+  description: 
+  authors: Yuning Guo, Matheus I.N. Rosa, Mohit Gupta, Benjamin Emerson Dolan, Brandon Fields, Lorenzo Valdevit, Massimo Ruzzene
+  link:
+    url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adfm.202204122
+    display: Advanced Functional Materials, 32(30), 2204122
+  highlight: 1 
+  
+   - title: "Dual-compressed photoacoustic single-pixel imaging"
+  image: 6photoacoustic_yuning.png
+  description: 
+  authors: Yuning Guo, Baowen Li, Xiaobo Yin
+  link:
+    url: https://academic.oup.com/nsr/article/10/1/nwac058/6554262
+    display: National Science Review 10(1), nwac058 (2023) 
+  highlight: 1 
   
 #   news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
 #   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
