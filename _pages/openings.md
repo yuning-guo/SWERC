@@ -15,10 +15,10 @@ permalink: /vacancies
 
 
 您将获得：
-活跃自由的研究氛围
-前沿技术的相关培训
-高水平文章的参与与发表
-与国外知名大学合作及进修的机会
+- 活跃自由的研究氛围
+- 前沿技术的相关培训
+- 高水平文章的参与与发表
+- 与国外知名大学合作及进修的机会
 
 
 <!-- You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries. -->
