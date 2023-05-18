@@ -26,7 +26,7 @@
   highlight: 1
   news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s43016-021-00302-z">Featured as 'News & Views' in Nature Food by Giuseppina Pennisi & Francesco Orsini</a>
   
- - title: "Topological Surface States in a Gyroid Acoustic Crystal"
+- title: "Topological Surface States in a Gyroid Acoustic Crystal"
   image: 4gyriod_yuning.png
   description: 
   authors: Yuning Guo, Matheus I.N. Rosa, Massimo Ruzzene
@@ -35,7 +35,7 @@
     display: Advanced Science, 10(6), 2205723
   highlight: 1 
   
-   - title: "Minimal Surface‐Based Materials for Topological Elastic Wave Guiding"
+- title: "Minimal Surface‐Based Materials for Topological Elastic Wave Guiding"
   image: 5minimalsurface_yuning.png
   description: 
   authors: Yuning Guo, Matheus I.N. Rosa, Mohit Gupta, Benjamin Emerson Dolan, Brandon Fields, Lorenzo Valdevit, Massimo Ruzzene
@@ -44,7 +44,7 @@
     display: Advanced Functional Materials, 32(30), 2204122
   highlight: 1 
   
-   - title: "Dual-compressed photoacoustic single-pixel imaging"
+- title: "Dual-compressed photoacoustic single-pixel imaging"
   image: 6photoacoustic_yuning.png
   description: 
   authors: Yuning Guo, Baowen Li, Xiaobo Yin
