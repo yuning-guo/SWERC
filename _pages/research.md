@@ -8,7 +8,7 @@ permalink: /research/
 
 ## 研究领域
 
-本团队总体目前是xxx。
+<!-- 本团队总体目前是xxx。 -->
 
 ![]({{ site.url }}{{ site.baseurl }}/images/lab_research/summary.png){: style="width: 100%; float: center; margin: 0px"}
 
