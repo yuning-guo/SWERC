@@ -13,7 +13,7 @@ permalink: /research/
 ![]({{ site.url }}{{ site.baseurl }}/images/lab_research/summary.png){: style="width: 100%; float: center; margin: 0px"}
 
 
-以下是我们目前从事的一些研究课题：
+以下是我们目前从事的部分研究课题：
 
 ### 光谱精准调控
 微纳光学结构、光子定向传输
