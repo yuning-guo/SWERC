@@ -31,13 +31,13 @@
   education4: 迄今发表SCI论文20余篇，包括National Science Review, Advanced Functional Materials, Advanced Science等期刊。
 #   education5:
   
-- name: 沈昊 外聘研究员
+- name: 沈昊 特聘研究员
   photo: Hao-headshot.jpg
   info: 仲英楼 B823
   email: hao.shen@hotmail.cn
-  number_educ: 5
-  education1: 2022.07-至今 西安交通大学物理学院  教授
-  education2: 2022.07-至今 华东师范大学  教授
-  education3: 2018.01-2022.01 美国科罗拉多大学波尔德分校  博士后
-  education4: 2018.01-2022.01 美国加利佛尼亚大学圣地亚哥分校  博士后
-  education5: 2012.01-xxxx    中国科学院物理研究所 博士
+  number_educ: 1
+#   education1: 2022.07-至今 西安交通大学物理学院  教授
+#   education2: 2022.07-至今 华东师范大学  教授
+#   education3: 2018.01-2022.01 美国科罗拉多大学波尔德分校  博士后
+#   education4: 2018.01-2022.01 美国加利佛尼亚大学圣地亚哥分校  博士后
+#   education5: 2012.01-xxxx    中国科学院物理研究所 博士
